@@ -1,9 +1,9 @@
 # SpringBoot 继承 Sharding Sphere 
 
-##参考
+## 参考
 
-[【SpringBoot实战】整合sharding-jdbc+mybatis][1]
-[SPRING BOOT配置][2]
+- [【SpringBoot实战】整合sharding-jdbc+mybatis][1]
+- [SPRING BOOT配置][2]
 
 
   [1]: http://www.chaiguanxin.com/articles/2018/12/02/1543757738369.html
