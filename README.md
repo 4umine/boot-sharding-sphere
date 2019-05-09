@@ -1,4 +1,4 @@
-# SpringBoot 继承 Sharding Sphere 
+# SpringBoot 集成 Sharding Sphere 
 
 ## 参考
 
